@@ -13,3 +13,9 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+
+# hugo
+docs/resources/_gen/
+docs/public/
+docs/_gen/
+docs/.hugo_build.lock
