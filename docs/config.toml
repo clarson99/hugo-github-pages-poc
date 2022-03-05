@@ -1,4 +1,5 @@
-baseURL = 'https://clarson99.github.io/hugo-github-pages-poc/'
+baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'Dev Obsessed'
-theme = "arcana"
+theme = "ananke"
+

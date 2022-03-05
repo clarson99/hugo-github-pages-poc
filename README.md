@@ -15,9 +15,7 @@
 
     hugo new posts/my-first-post.md
 
-    #hugo new -k chapter my/_index.md 
-    #hugo new -k chapter my/new/_index.md 
-    #hugo new -k default my/new/page.md
+    hugo new page/my-first-page.md
     
     git status
 
