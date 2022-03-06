@@ -13,7 +13,7 @@
     
     cd docs
 
-    hugo new posts/my-first-post.md
+    hugo new blog/my-first-post.md
 
     hugo new page/my-first-page.md
     
