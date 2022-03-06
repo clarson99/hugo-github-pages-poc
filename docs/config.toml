@@ -36,3 +36,6 @@ enableRobotsTXT = true
 name = "twitter"
 url = "https://twitter.com/Dev_Obsessed"
 
+[[params.ananke_socials]]
+name = "facebook"
+url = "https://facebook.com"
