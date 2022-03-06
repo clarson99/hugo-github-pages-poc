@@ -13,7 +13,7 @@ enableRobotsTXT = true
 
 [languages]
   [languages.en]
-    title = "Ananke"
+    title = "Dev Obsessed"
     weight = 1
     contentDir = "content"
 
