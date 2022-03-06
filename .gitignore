@@ -17,5 +17,5 @@
 # hugo
 docs/resources/_gen/
 docs/public/
-docs/_gen/
 docs/.hugo_build.lock
+resources/_gen/
