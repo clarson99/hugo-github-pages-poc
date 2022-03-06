@@ -26,4 +26,6 @@
     hugo server -D
 
     # in another shell
-    open http://localhost:1313/
+    open http://localhost:1313/hugo-github-pages-poc/
+
+    open https://clarson99.github.io/hugo-github-pages-poc/

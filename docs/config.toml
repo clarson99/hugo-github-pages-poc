@@ -1,9 +1,9 @@
-baseURL = 'https://clarson99.github.io/'
+baseURL = 'https://clarson99.github.io/hugo-github-pages-poc/'
 languageCode = 'en-us'
 title = 'Dev Obsessed'
 theme = "ananke"
 
-resourceDir = "../resources"
+resourceDir = "./resources"
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
